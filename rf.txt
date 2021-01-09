@@ -1,0 +1,12 @@
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7424450549450552 for case of features 0
+Score for classifier RandomForestClassifier() is 0.753434065934066 for case of features 0
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7470238095238095 for case of features 1
+Score for classifier RandomForestClassifier() is 0.7449633699633703 for case of features 1
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7259615384615385 for case of features 2
+Score for classifier RandomForestClassifier() is 0.7236721611721614 for case of features 2
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.5902014652014651 for case of features 3
+Score for classifier RandomForestClassifier() is 0.6046245421245422 for case of features 3
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7250457875457876 for case of features 4
+Score for classifier RandomForestClassifier() is 0.7241300366300367 for case of features 4
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7234432234432235 for case of features 5
+Score for classifier RandomForestClassifier() is 0.733745421245421 for case of features 5

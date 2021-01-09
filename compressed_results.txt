@@ -1,0 +1,90 @@
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.6801739926739928 for case of features 0
+Score for classifier DecisionTreeClassifier() is 0.6749084249084247 for case of features 0
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.2596153846153846 for case of features 0
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.2564102564102564 for case of features 0
+Score for classifier KNeighborsClassifier(weights='distance') is 0.2552655677655678 for case of features 0
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7424450549450552 for case of features 0
+Score for classifier RandomForestClassifier() is 0.753434065934066 for case of features 0
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.24977106227106224 for case of features 0
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.25 for case of features 0
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.25 for case of features 0
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.25297619047619047 for case of features 0
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.24862637362637363 for case of features 0
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.7612179487179489 for case of features 0
+Score for classifier LGBMClassifier() is 0.7408424908424908 for case of features 0
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.7902930402930403 for case of features 0
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.6929945054945055 for case of features 1
+Score for classifier DecisionTreeClassifier() is 0.6707875457875458 for case of features 1
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.2596153846153846 for case of features 1
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.2564102564102564 for case of features 1
+Score for classifier KNeighborsClassifier(weights='distance') is 0.2552655677655678 for case of features 1
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7470238095238095 for case of features 1
+Score for classifier RandomForestClassifier() is 0.7449633699633703 for case of features 1
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.24793956043956045 for case of features 1
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.25709706959706957 for case of features 1
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.263507326007326 for case of features 1
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.2483974358974359 for case of features 1
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.24565018315018314 for case of features 1
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.7641941391941389 for case of features 1
+Score for classifier LGBMClassifier() is 0.7479395604395606 for case of features 1
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.7797619047619045 for case of features 1
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.6531593406593407 for case of features 2
+Score for classifier DecisionTreeClassifier() is 0.6453754578754577 for case of features 2
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.3543956043956044 for case of features 2
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.35073260073260076 for case of features 2
+Score for classifier KNeighborsClassifier(weights='distance') is 0.34958791208791207 for case of features 2
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7259615384615385 for case of features 2
+Score for classifier RandomForestClassifier() is 0.7236721611721614 for case of features 2
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.2861721611721612 for case of features 2
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.29143772893772896 for case of features 2
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.28502747252747257 for case of features 2
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.2859432234432235 for case of features 2
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.30105311355311354 for case of features 2
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.7451923076923078 for case of features 2
+Score for classifier LGBMClassifier() is 0.738095238095238 for case of features 2
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.7669413919413918 for case of features 2
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.5201465201465201 for case of features 3
+Score for classifier DecisionTreeClassifier() is 0.5393772893772893 for case of features 3
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.2589285714285714 for case of features 3
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.2564102564102564 for case of features 3
+Score for classifier KNeighborsClassifier(weights='distance') is 0.25434981684981683 for case of features 3
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.5902014652014651 for case of features 3
+Score for classifier RandomForestClassifier() is 0.6046245421245422 for case of features 3
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.25961538461538464 for case of features 3
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.2564102564102564 for case of features 3
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.25847069597069594 for case of features 3
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.2532051282051282 for case of features 3
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.2518315018315018 for case of features 3
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.6195054945054945 for case of features 3
+Score for classifier LGBMClassifier() is 0.6263736263736265 for case of features 3
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.6245421245421245 for case of features 3
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.6538461538461537 for case of features 4
+Score for classifier DecisionTreeClassifier() is 0.6412545787545787 for case of features 4
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.5863095238095237 for case of features 4
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.5858516483516483 for case of features 4
+Score for classifier KNeighborsClassifier(weights='distance') is 0.5865384615384616 for case of features 4
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7250457875457876 for case of features 4
+Score for classifier RandomForestClassifier() is 0.7241300366300367 for case of features 4
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.6684981684981687 for case of features 4
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.6527014652014653 for case of features 4
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.6675824175824175 for case of features 4
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.6815476190476191 for case of features 4
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.6822344322344323 for case of features 4
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.7305402930402931 for case of features 4
+Score for classifier LGBMClassifier() is 0.7163461538461539 for case of features 4
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.7268772893772893 for case of features 4
+Score for classifier DecisionTreeClassifier(criterion='entropy') is 0.6423992673992673 for case of features 5
+Score for classifier DecisionTreeClassifier() is 0.655448717948718 for case of features 5
+Score for classifier KNeighborsClassifier(n_neighbors=3, weights='distance') is 0.2598443223443223 for case of features 5
+Score for classifier KNeighborsClassifier(n_neighbors=4, weights='distance') is 0.2570970695970695 for case of features 5
+Score for classifier KNeighborsClassifier(weights='distance') is 0.2552655677655678 for case of features 5
+Score for classifier RandomForestClassifier(criterion='entropy') is 0.7234432234432235 for case of features 5
+Score for classifier RandomForestClassifier() is 0.733745421245421 for case of features 5
+Score for classifier SGDClassifier(l1_ratio=0.7, penalty='elasticnet') is 0.2532051282051282 for case of features 5
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='log', penalty='elasticnet') is 0.2470238095238095 for case of features 5
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='modified_huber', penalty='elasticnet') is 0.25457875457875456 for case of features 5
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='squared_hinge', penalty='elasticnet') is 0.25 for case of features 5
+Score for classifier SGDClassifier(l1_ratio=0.7, loss='perceptron', penalty='elasticnet') is 0.2467948717948718 for case of features 5
+              tree_method='exact', validate_parameters=1, verbosity=0) is 0.7605311355311357 for case of features 5
+Score for classifier LGBMClassifier() is 0.7525183150183151 for case of features 5
+Score for classifier <catboost.core.CatBoostClassifier object at 0x7fab574aea90> is 0.7804487179487178 for case of features 5
